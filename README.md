@@ -4,10 +4,9 @@
 [![Instagram Badge](https://img.shields.io/badge/-@karem.nahra-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/karem.nahra/)](https://instagram.com/karem.nahra)
 [![Gmail Badge](https://img.shields.io/badge/-karemcardoso1301-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:karemcardoso1301@gmail.com)](mailto:karemcardoso1301@gmail.com)
 
-Welcome to my profile! I'm a student, aspiring [writer](https://medium.com/@_jessicalim), part-time coder and full-time adventure seeker. I am current interning @Wealthsimple, and have previously PM'd @Autodesk, SWE'd @Microsoft, and UX&D consulted @Deloitte. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/jlim/)!
+Bienvenidxs a mi perfil. Soy licenciada en psicología con formación en temas de género y derechos de las mujeres. Me gusta mucho unir esto con temas de tecnologías por lo que me he dedicado a aprender más sobre esta área. Espero podamos trabajar en conjunto y [conectar](https://www.linkedin.com/in/karem-ram%C3%ADrez-629742249/)
 
 
-## Join the Community Word Cloud :cloud: :pencil2:
 <!--
 **Karemna13/karemna13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
